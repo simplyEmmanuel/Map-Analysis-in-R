@@ -2,6 +2,8 @@
 
 ![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/ced41865-9bc4-4b6b-969d-d92411d363a3)
 
+Image by: Dani Argandona | Unsplash - Free to use under Unsplash License
+
 
 ## Introduction
 "The LMOP Landfill and Landfill Gas Energy Project Database (LMOP Database) contains information such as a physical address, latitude, and longitude, owner/operator organization, operational status, year opened, actual or expected closure year, design capacity, amount of waste in place, gas collection system status and landfill gas (LFG) collected amount for 2,637 municipal solid waste landfills. For landfills that report under EPA’s Greenhouse Gas Reporting Program (GHGRP), LMOP cross-references that data set by including GHGRP’s 7-digit Facility Identifier." - LMOP

@@ -1,11 +1,11 @@
-# Landfill Methane Outreach Program (LMOP)
+# Analysis on Landfill Methane Outreach Program (LMOP) 
 
 ## Introduction
-"The LMOP Landfill and Landfill Gas Energy Project Database (LMOP Database) contains information such as physical address, latitude and longitude, owner/operator organization, operational status, year opened, actual or expected closure year, design capacity, amount of waste in place, gas collection system status and landfill gas (LFG) collected amount for 2,637 municipal solid waste landfills. For landfills that report under EPA’s Greenhouse Gas Reporting Program (GHGRP), LMOP cross-references that data set by including GHGRP’s 7-digit Facility Identifier." - LMOP
+"The LMOP Landfill and Landfill Gas Energy Project Database (LMOP Database) contains information such as a physical address, latitude, and longitude, owner/operator organization, operational status, year opened, actual or expected closure year, design capacity, amount of waste in place, gas collection system status and landfill gas (LFG) collected amount for 2,637 municipal solid waste landfills. For landfills that report under EPA’s Greenhouse Gas Reporting Program (GHGRP), LMOP cross-references that data set by including GHGRP’s 7-digit Facility Identifier." - LMOP
 
 Reference: https://www.epa.gov/lmop
 
-## Aim: The main goal of this research is to utilize the map to analyze locations and characteristics of landfills in the United States.
+## Aim: The main goal of this research is to utilize the map to analyze the locations and characteristics of landfills in the United States.
 
 ### Data: The data are available from the Environmental Protection Agency (EPA) as referenced here.
 

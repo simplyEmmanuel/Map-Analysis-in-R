@@ -29,3 +29,42 @@ This leaflet map provides an overview of the waste acceptance rate in 2021 acros
 
 ![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/0655af27-6994-4e4f-a464-45309381ac3e)
 
+## Landfill sustainability (years) in the United States
+Although each state has a different population and other factors, we need another indicator to represent landfill capacity more accurately. Using landfill sustainability, we are able to determine how long a state would be able to satisfy its landfill requirements without having to build new sites.
+
+![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/73681278-b7b2-4e12-9802-5b57f65dc217)
+
+### Summary
+As a result of the assessment, this describes the two maps which were distinctively generated to indicate each state’s sustainability. The first indicates that Nevada and Utah have great sustainability, whereas the second shows that the New England region, particularly Massachusetts, Rhode Island, and Vermont are experiencing severe problems with refuse disposal.
+
+![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/5f185829-1829-4949-9019-3645567d049e)
+
+## Texas Landfill sustainability in (years)
+To better narrow the scope of our analysis to the situation in Texas, where I recently live, then analyze it below. In this case, landfill environmental sustainability will be used as an example. Each of the counties shown here describes the size of their sustainability up until 2021. Few counties have the highest waste disposal facilities sustainability in Texas (TX), along with more than a quarter not listed among the counties in TX having adequate landfill sustainability.
+
+![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/1c091cf6-3998-4b48-8ec1-d6b5b5596872)
+
+## Results
+- We can deduce that the states of Texas, California, Northeast, Southeast, and the Great Lakes have the most trash.
+
+- In comparison to other states, Utah and Nevada are thought to have the best landfill sustainability.
+
+- Texas and other southwestern states have a relatively large landfill capacity.
+
+- Vermont, Rhode Island, Massachusetts, and the New England region have been identified to experience severe landfill issues and a lack of refuse disposal.
+
+- Blue Ridge LF in Fort Bend County, which has the highest landfill design capacity in Texas, demonstrates a strong commitment to sustainability when the large amount of waste in place (tons) is also factored in.
+
+## References
+
+- Cohen, B. (2023). Lecture on Leaflet - Harrisburg University of Science and Technology
+
+- Leaflet for R. (n.d.). Retrieved May 1, 2023, from https://rstudio.github.io/leaflet/basemaps.html
+
+- The data are available from the Environmental Protection Agency (EPA). Retrieved April 26, 2023. https://www.epa.gov/lmop/landfill-technical-data. link named “Landfill-level data only.
+
+- Mercer County. (n.d.). State FIPS Code Listing. Retrieved April 26, 2023, from https://www.mercercountypa.gov/dps/state_fips_code_listing.htm
+
+- U.S. Census Bureau. (2023). US Shape Files. Retrieved April 29, 2023, from https://www.census.gov/geographies/mapping-files/2021/geo/carto-boundary-file.html
+
+- Legend and color of polygons in R from https://stackoverflow.com/questions/56659000/the-legend-colors-are-not-perfectly-similar-to-color-of-polygons

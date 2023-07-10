@@ -19,7 +19,7 @@ Reference: https://www.epa.gov/lmop
 ![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/64ea74a9-1643-4fdc-a0a4-e3433b1af6f0)
 
 ## Data Summary
-Using the ‘expss’ function in R to generate baseline statistical tabulations of the data. We generate tabulations to display the state as well as three (3) other waste indicators based on the current status (open, closed). The map can then be used to analyze the data.
+Using the package ‘expss’ function in R to generate baseline statistical tabulations of the data. We generate tabulations to display the state as well as three (3) other waste indicators based on the current status (open, closed). The map can then be used to analyze the data.
 ![image](https://github.com/simplyEmmanuel/Leaflet_Maps_in_R/assets/57048981/10a86a02-8b3a-48f2-8a5b-870a73b1ca88)
 #
 Watstes Statistics in Summary

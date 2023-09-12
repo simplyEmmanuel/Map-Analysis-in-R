@@ -56,7 +56,7 @@ To better narrow the scope of our analysis to the situation in Texas, where I re
 
 - Texas and other southwestern states have a relatively large landfill capacity.
 
-- Vermont, Rhode Island, Massachusetts, and the New England region have been identified to experience severe landfill issues and a lack of refuse disposal.
+- Vermont, Rhode Island, Massachusetts, and the New England region have been identified as experiencing severe landfill issues and a lack of refuse disposal.
 
 - Blue Ridge LF in Fort Bend County, which has the highest landfill design capacity in Texas, demonstrates a strong commitment to sustainability when the large amount of waste in place (tons) is also factored in.
 
